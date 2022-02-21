@@ -16,7 +16,7 @@ namespace LineComparisonComputationProgram
             }
             else
             {
-                Console.WriteLine("Line1 is not equal to Line2");
+                LengthComparison.Comparison(length1,length2);
             }
         }
     }
